@@ -1,0 +1,2 @@
+http://railstutorial.org/chapters/modeling-and-viewing-users-two
+7.2.4
