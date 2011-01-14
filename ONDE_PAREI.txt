@@ -1,2 +1,2 @@
-http://railstutorial.org/chapters/sign-up#top
-8
+http://railstutorial.org/chapters/sign-in-sign-out#top
+9.4
